@@ -1,2 +1,16 @@
 node_modules
 dist
+tsconfig.tsbuildinfo
+logs
+
+*.log
+*.local
+yarn-debug.log*
+yarn-error.log*
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
